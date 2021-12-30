@@ -1,1 +1,1 @@
-# The above document describes about my excercise and practice done on Machine Learning project.
+# The above document describes about my project done on Machine Learning and deep learning.
